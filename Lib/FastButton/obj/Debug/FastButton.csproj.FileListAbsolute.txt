@@ -1,0 +1,13 @@
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\bin\Debug\FastButton.dll
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\bin\Debug\FastButton.pdb
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csproj.AssemblyReference.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton_MarkupCompile.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton_MarkupCompile.lref
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\Themes\Generic.baml
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.g.resources
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.Properties.Resources.resources
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csproj.GenerateResource.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.csproj.CoreCompileInputs.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.dll
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FastButton\obj\Debug\FastButton.pdb

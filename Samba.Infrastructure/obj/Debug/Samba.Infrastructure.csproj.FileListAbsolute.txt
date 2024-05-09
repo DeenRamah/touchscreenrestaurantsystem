@@ -1,0 +1,7 @@
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll.config
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.pdb
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.dll
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.pdb

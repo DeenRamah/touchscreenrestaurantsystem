@@ -1,0 +1,6 @@
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FluentScript\bin\Debug\Fluentscript.dll
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FluentScript\bin\Debug\Fluentscript.pdb
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FluentScript\obj\Debug\FluentScript.csproj.AssemblyReference.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FluentScript\obj\Debug\FluentScript.csproj.CoreCompileInputs.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FluentScript\obj\Debug\Fluentscript.dll
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FluentScript\obj\Debug\Fluentscript.pdb

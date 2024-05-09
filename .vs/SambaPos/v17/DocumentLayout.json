@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67EBDE4C-87F7-406D-8379-074A0E21ED7F}|Samba.ApiServer\\Samba.ApiServer.csproj|c:\\users\\kipro\\onedrive\\desktop\\sambapos-3-master\\samba.apiserver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EBDE4C-87F7-406D-8379-074A0E21ED7F}|Samba.ApiServer\\Samba.ApiServer.csproj|solutionrelative:samba.apiserver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 188,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.ApiServer\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Samba.ApiServer\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.ApiServer\\FrmMain.cs [Design]*",
+              "RelativeToolTip": "Samba.ApiServer\\FrmMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:20:28.641Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

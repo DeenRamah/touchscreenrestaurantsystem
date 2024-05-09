@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.Localization\\Properties\\Resources.ar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Samba.Localization\\Properties\\Resources.ar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.Localization\\Properties\\Resources.ar.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Samba.Localization\\Properties\\Resources.ar.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.Localization\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Samba.Localization\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.ApiServer\\FrmMain.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Samba.ApiServer\\FrmMain.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.ApiServer\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Samba.ApiServer\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\ICSharpCode.AvalonEdit.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\ICSharpCode.AvalonEdit.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FluentMigrator.Runner.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\FluentMigrator.Runner.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FluentMigrator.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\FluentMigrator.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\EntityFramework.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\EntityFramework.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\EntityFramework.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\EntityFramework.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\AxInterop.cidv5callerid.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\AxInterop.cidv5callerid.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\AxInterop.cidv5callerid.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\AxInterop.cidv5callerid.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\DynamicTriggerBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\Stateless\\DynamicTriggerBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Stateless.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\Stateless\\Stateless.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\StateRepresentationResources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\Stateless\\Properties\\StateRepresentationResources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\StateMachineResources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\Stateless\\Properties\\StateMachineResources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\StateConfigurationResources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\Stateless\\Properties\\StateConfigurationResources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\ParameterConversionResources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\Stateless\\Properties\\ParameterConversionResources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FlexButton\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\FlexButton\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FastButton\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\FastButton\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\DataGridFilterLibrary\\DataGridFilterLibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\DataGridFilterLibrary\\DataGridFilterLibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\DataGridFilterLibrary\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lib\\DataGridFilterLibrary\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 188,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.Localization\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Samba.Localization\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.Localization\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Samba.Localization\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:42:58.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.ar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.Localization\\Properties\\Resources.ar.Designer.cs",
+              "RelativeDocumentMoniker": "Samba.Localization\\Properties\\Resources.ar.Designer.cs",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.Localization\\Properties\\Resources.ar.Designer.cs",
+              "RelativeToolTip": "Samba.Localization\\Properties\\Resources.ar.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:42:51.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resources.ar.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.Localization\\Properties\\Resources.ar.resx",
+              "RelativeDocumentMoniker": "Samba.Localization\\Properties\\Resources.ar.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.Localization\\Properties\\Resources.ar.resx",
+              "RelativeToolTip": "Samba.Localization\\Properties\\Resources.ar.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:42:29.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.ApiServer\\FrmMain.resx",
+              "RelativeDocumentMoniker": "Samba.ApiServer\\FrmMain.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.ApiServer\\FrmMain.resx",
+              "RelativeToolTip": "Samba.ApiServer\\FrmMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:40:46.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.ApiServer\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Samba.ApiServer\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Samba.ApiServer\\Properties\\Resources.resx",
+              "RelativeToolTip": "Samba.ApiServer\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:40:40.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICSharpCode.AvalonEdit.xml",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\ICSharpCode.AvalonEdit.xml",
+              "RelativeDocumentMoniker": "Lib\\ICSharpCode.AvalonEdit.xml",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\ICSharpCode.AvalonEdit.xml",
+              "RelativeToolTip": "Lib\\ICSharpCode.AvalonEdit.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-09T04:40:23.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FluentMigrator.Runner.dll",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FluentMigrator.Runner.dll",
+              "RelativeDocumentMoniker": "Lib\\FluentMigrator.Runner.dll",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FluentMigrator.Runner.dll",
+              "RelativeToolTip": "Lib\\FluentMigrator.Runner.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-09T04:40:21.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FluentMigrator.dll",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FluentMigrator.dll",
+              "RelativeDocumentMoniker": "Lib\\FluentMigrator.dll",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FluentMigrator.dll",
+              "RelativeToolTip": "Lib\\FluentMigrator.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-09T04:40:18.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityFramework.xml",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\EntityFramework.xml",
+              "RelativeDocumentMoniker": "Lib\\EntityFramework.xml",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\EntityFramework.xml",
+              "RelativeToolTip": "Lib\\EntityFramework.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-09T04:40:14.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntityFramework.dll",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\EntityFramework.dll",
+              "RelativeDocumentMoniker": "Lib\\EntityFramework.dll",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\EntityFramework.dll",
+              "RelativeToolTip": "Lib\\EntityFramework.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-09T04:40:11.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AxInterop.cidv5callerid.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\AxInterop.cidv5callerid.dll",
+              "RelativeDocumentMoniker": "Lib\\AxInterop.cidv5callerid.dll",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\AxInterop.cidv5callerid.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "Lib\\AxInterop.cidv5callerid.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-09T04:40:03.63Z",
+              "EditorCaption": " - 1 [Neutral] - Version"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AxInterop.cidv5callerid.dll",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\AxInterop.cidv5callerid.dll",
+              "RelativeDocumentMoniker": "Lib\\AxInterop.cidv5callerid.dll",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\AxInterop.cidv5callerid.dll",
+              "RelativeToolTip": "Lib\\AxInterop.cidv5callerid.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-09T04:39:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DynamicTriggerBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\DynamicTriggerBehaviour.cs",
+              "RelativeDocumentMoniker": "Lib\\Stateless\\DynamicTriggerBehaviour.cs",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\DynamicTriggerBehaviour.cs",
+              "RelativeToolTip": "Lib\\Stateless\\DynamicTriggerBehaviour.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:39:42.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Stateless.csproj",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Stateless.csproj",
+              "RelativeDocumentMoniker": "Lib\\Stateless\\Stateless.csproj",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Stateless.csproj",
+              "RelativeToolTip": "Lib\\Stateless\\Stateless.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T04:39:40.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StateRepresentationResources.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\StateRepresentationResources.resx",
+              "RelativeDocumentMoniker": "Lib\\Stateless\\Properties\\StateRepresentationResources.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\StateRepresentationResources.resx",
+              "RelativeToolTip": "Lib\\Stateless\\Properties\\StateRepresentationResources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:39:34.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StateMachineResources.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\StateMachineResources.resx",
+              "RelativeDocumentMoniker": "Lib\\Stateless\\Properties\\StateMachineResources.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\StateMachineResources.resx",
+              "RelativeToolTip": "Lib\\Stateless\\Properties\\StateMachineResources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:39:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StateConfigurationResources.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\StateConfigurationResources.resx",
+              "RelativeDocumentMoniker": "Lib\\Stateless\\Properties\\StateConfigurationResources.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\StateConfigurationResources.resx",
+              "RelativeToolTip": "Lib\\Stateless\\Properties\\StateConfigurationResources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:39:27.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ParameterConversionResources.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\ParameterConversionResources.resx",
+              "RelativeDocumentMoniker": "Lib\\Stateless\\Properties\\ParameterConversionResources.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\Stateless\\Properties\\ParameterConversionResources.resx",
+              "RelativeToolTip": "Lib\\Stateless\\Properties\\ParameterConversionResources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:39:15.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FastButton\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Lib\\FastButton\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FastButton\\Properties\\Resources.resx",
+              "RelativeToolTip": "Lib\\FastButton\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:37:27.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataGridFilterLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\DataGridFilterLibrary\\DataGridFilterLibrary.csproj",
+              "RelativeDocumentMoniker": "Lib\\DataGridFilterLibrary\\DataGridFilterLibrary.csproj",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\DataGridFilterLibrary\\DataGridFilterLibrary.csproj",
+              "RelativeToolTip": "Lib\\DataGridFilterLibrary\\DataGridFilterLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T04:36:47.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FlexButton\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Lib\\FlexButton\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\FlexButton\\Properties\\Resources.resx",
+              "RelativeToolTip": "Lib\\FlexButton\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:36:16.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\DataGridFilterLibrary\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Lib\\DataGridFilterLibrary\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\kipro\\OneDrive\\Desktop\\SambaPOS-3-master\\Lib\\DataGridFilterLibrary\\Properties\\Resources.resx",
+              "RelativeToolTip": "Lib\\DataGridFilterLibrary\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-09T04:34:59.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

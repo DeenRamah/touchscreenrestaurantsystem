@@ -1,0 +1,15 @@
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.dll
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.pdb
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.AssemblyReference.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\Generic.baml
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.lref
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButton.baml
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButtonStyles.baml
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.g.resources
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.Properties.Resources.resources
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.GenerateResource.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.CoreCompileInputs.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.dll
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.pdb

@@ -1,0 +1,14 @@
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\Samba.Presentation.csproj.AssemblyReference.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\MessageClientStatusView.baml
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\Shell.baml
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\Themes\MainExpanderResources.baml
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\WorkPeriodStatusView.baml
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\App.baml
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\MessageClientStatusView.g.cs
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\Shell.g.cs
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\WorkPeriodStatusView.g.cs
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\App.g.cs
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\Samba.Presentation_Content.g.cs
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\Samba.Presentation_MarkupCompile.cache
+C:\Users\kipro\OneDrive\Desktop\SambaPOS-3-master\Samba.Presentation\obj\x86\Debug\Samba.Presentation_MarkupCompile.lref
